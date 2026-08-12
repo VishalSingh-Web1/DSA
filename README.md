@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0624-maximum-distance-in-arrays](https://github.com/VishalSingh-Web1/DSA/tree/master/0624-maximum-distance-in-arrays) |
+| [1800-maximum-ascending-subarray-sum](https://github.com/VishalSingh-Web1/DSA/tree/master/1800-maximum-ascending-subarray-sum) |
 ## Greedy
 |  |
 | ------- |
