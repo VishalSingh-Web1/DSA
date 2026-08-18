@@ -31,4 +31,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/VishalSingh-Web1/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+## Two Pointers
+|  |
+| ------- |
+| [0165-compare-version-numbers](https://github.com/VishalSingh-Web1/DSA/tree/master/0165-compare-version-numbers) |
+## String
+|  |
+| ------- |
+| [0165-compare-version-numbers](https://github.com/VishalSingh-Web1/DSA/tree/master/0165-compare-version-numbers) |
 <!---LeetCode Topics End-->
