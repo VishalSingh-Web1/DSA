@@ -35,10 +35,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/VishalSingh-Web1/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0165-compare-version-numbers](https://github.com/VishalSingh-Web1/DSA/tree/master/0165-compare-version-numbers) |
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/VishalSingh-Web1/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0165-compare-version-numbers](https://github.com/VishalSingh-Web1/DSA/tree/master/0165-compare-version-numbers) |
 ## Math
 |  |
@@ -48,4 +50,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/VishalSingh-Web1/DSA/tree/master/1588-sum-of-all-odd-length-subarrays) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/VishalSingh-Web1/DSA/tree/master/0005-longest-palindromic-substring) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/VishalSingh-Web1/DSA/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
