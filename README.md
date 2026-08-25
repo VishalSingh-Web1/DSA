@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/VishalSingh-Web1/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0131-palindrome-partitioning](https://github.com/VishalSingh-Web1/DSA/tree/master/0131-palindrome-partitioning) |
 | [0165-compare-version-numbers](https://github.com/VishalSingh-Web1/DSA/tree/master/0165-compare-version-numbers) |
+| [0306-additive-number](https://github.com/VishalSingh-Web1/DSA/tree/master/0306-additive-number) |
 ## Math
 |  |
 | ------- |
@@ -92,4 +93,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/VishalSingh-Web1/DSA/tree/master/0131-palindrome-partitioning) |
+| [0306-additive-number](https://github.com/VishalSingh-Web1/DSA/tree/master/0306-additive-number) |
 <!---LeetCode Topics End-->
