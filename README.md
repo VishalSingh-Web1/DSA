@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/VishalSingh-Web1/DSA/tree/master/0204-count-primes) |
 | [0624-maximum-distance-in-arrays](https://github.com/VishalSingh-Web1/DSA/tree/master/0624-maximum-distance-in-arrays) |
+| [0648-replace-words](https://github.com/VishalSingh-Web1/DSA/tree/master/0648-replace-words) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/VishalSingh-Web1/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/VishalSingh-Web1/DSA/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/VishalSingh-Web1/DSA/tree/master/1800-maximum-ascending-subarray-sum) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0648-replace-words](https://github.com/VishalSingh-Web1/DSA/tree/master/0648-replace-words) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/VishalSingh-Web1/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/VishalSingh-Web1/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Sliding Window
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/VishalSingh-Web1/DSA/tree/master/0131-palindrome-partitioning) |
 | [0165-compare-version-numbers](https://github.com/VishalSingh-Web1/DSA/tree/master/0165-compare-version-numbers) |
 | [0306-additive-number](https://github.com/VishalSingh-Web1/DSA/tree/master/0306-additive-number) |
+| [0648-replace-words](https://github.com/VishalSingh-Web1/DSA/tree/master/0648-replace-words) |
 ## Math
 |  |
 | ------- |
@@ -96,4 +99,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/VishalSingh-Web1/DSA/tree/master/0131-palindrome-partitioning) |
 | [0306-additive-number](https://github.com/VishalSingh-Web1/DSA/tree/master/0306-additive-number) |
+## Trie
+|  |
+| ------- |
+| [0648-replace-words](https://github.com/VishalSingh-Web1/DSA/tree/master/0648-replace-words) |
 <!---LeetCode Topics End-->
