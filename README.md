@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/VishalSingh-Web1/DSA/tree/master/0179-largest-number) |
 | [0204-count-primes](https://github.com/VishalSingh-Web1/DSA/tree/master/0204-count-primes) |
 | [0624-maximum-distance-in-arrays](https://github.com/VishalSingh-Web1/DSA/tree/master/0624-maximum-distance-in-arrays) |
 | [0648-replace-words](https://github.com/VishalSingh-Web1/DSA/tree/master/0648-replace-words) |
@@ -17,10 +18,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/VishalSingh-Web1/DSA/tree/master/0179-largest-number) |
 | [0624-maximum-distance-in-arrays](https://github.com/VishalSingh-Web1/DSA/tree/master/0624-maximum-distance-in-arrays) |
 ## Sorting
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/VishalSingh-Web1/DSA/tree/master/0179-largest-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/VishalSingh-Web1/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/VishalSingh-Web1/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Heap (Priority Queue)
@@ -48,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/VishalSingh-Web1/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0131-palindrome-partitioning](https://github.com/VishalSingh-Web1/DSA/tree/master/0131-palindrome-partitioning) |
 | [0165-compare-version-numbers](https://github.com/VishalSingh-Web1/DSA/tree/master/0165-compare-version-numbers) |
+| [0179-largest-number](https://github.com/VishalSingh-Web1/DSA/tree/master/0179-largest-number) |
 | [0306-additive-number](https://github.com/VishalSingh-Web1/DSA/tree/master/0306-additive-number) |
 | [0648-replace-words](https://github.com/VishalSingh-Web1/DSA/tree/master/0648-replace-words) |
 ## Math
