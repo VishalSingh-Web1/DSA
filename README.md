@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/VishalSingh-Web1/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0165-compare-version-numbers](https://github.com/VishalSingh-Web1/DSA/tree/master/0165-compare-version-numbers) |
+| [0633-sum-of-square-numbers](https://github.com/VishalSingh-Web1/DSA/tree/master/0633-sum-of-square-numbers) |
 ## String
 |  |
 | ------- |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0172-factorial-trailing-zeroes](https://github.com/VishalSingh-Web1/DSA/tree/master/0172-factorial-trailing-zeroes) |
 | [0204-count-primes](https://github.com/VishalSingh-Web1/DSA/tree/master/0204-count-primes) |
+| [0633-sum-of-square-numbers](https://github.com/VishalSingh-Web1/DSA/tree/master/0633-sum-of-square-numbers) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/VishalSingh-Web1/DSA/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/VishalSingh-Web1/DSA/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Prefix Sum
@@ -110,4 +112,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0648-replace-words](https://github.com/VishalSingh-Web1/DSA/tree/master/0648-replace-words) |
+## Binary Search
+|  |
+| ------- |
+| [0633-sum-of-square-numbers](https://github.com/VishalSingh-Web1/DSA/tree/master/0633-sum-of-square-numbers) |
 <!---LeetCode Topics End-->
