@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0172-factorial-trailing-zeroes](https://github.com/VishalSingh-Web1/DSA/tree/master/0172-factorial-trailing-zeroes) |
 | [0204-count-primes](https://github.com/VishalSingh-Web1/DSA/tree/master/0204-count-primes) |
+| [0279-perfect-squares](https://github.com/VishalSingh-Web1/DSA/tree/master/0279-perfect-squares) |
 | [0633-sum-of-square-numbers](https://github.com/VishalSingh-Web1/DSA/tree/master/0633-sum-of-square-numbers) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/VishalSingh-Web1/DSA/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/VishalSingh-Web1/DSA/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/VishalSingh-Web1/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0131-palindrome-partitioning](https://github.com/VishalSingh-Web1/DSA/tree/master/0131-palindrome-partitioning) |
+| [0279-perfect-squares](https://github.com/VishalSingh-Web1/DSA/tree/master/0279-perfect-squares) |
 ## Manacher
 |  |
 | ------- |
@@ -128,4 +130,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/VishalSingh-Web1/DSA/tree/master/0021-merge-two-sorted-lists) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/VishalSingh-Web1/DSA/tree/master/0279-perfect-squares) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/VishalSingh-Web1/DSA/tree/master/0279-perfect-squares) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/VishalSingh-Web1/DSA/tree/master/0279-perfect-squares) |
 <!---LeetCode Topics End-->
