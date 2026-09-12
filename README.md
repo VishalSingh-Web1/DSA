@@ -151,4 +151,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/VishalSingh-Web1/DSA/tree/master/0374-guess-number-higher-or-lower) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0693-binary-number-with-alternating-bits](https://github.com/VishalSingh-Web1/DSA/tree/master/0693-binary-number-with-alternating-bits) |
 <!---LeetCode Topics End-->
