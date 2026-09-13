@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0624-maximum-distance-in-arrays](https://github.com/VishalSingh-Web1/DSA/tree/master/0624-maximum-distance-in-arrays) |
 | [0648-replace-words](https://github.com/VishalSingh-Web1/DSA/tree/master/0648-replace-words) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/VishalSingh-Web1/DSA/tree/master/0674-longest-continuous-increasing-subsequence) |
+| [0821-shortest-distance-to-a-character](https://github.com/VishalSingh-Web1/DSA/tree/master/0821-shortest-distance-to-a-character) |
 | [0941-valid-mountain-array](https://github.com/VishalSingh-Web1/DSA/tree/master/0941-valid-mountain-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/VishalSingh-Web1/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/VishalSingh-Web1/DSA/tree/master/1588-sum-of-all-odd-length-subarrays) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/VishalSingh-Web1/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0165-compare-version-numbers](https://github.com/VishalSingh-Web1/DSA/tree/master/0165-compare-version-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/VishalSingh-Web1/DSA/tree/master/0633-sum-of-square-numbers) |
+| [0821-shortest-distance-to-a-character](https://github.com/VishalSingh-Web1/DSA/tree/master/0821-shortest-distance-to-a-character) |
 ## String
 |  |
 | ------- |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/VishalSingh-Web1/DSA/tree/master/0409-longest-palindrome) |
 | [0504-base-7](https://github.com/VishalSingh-Web1/DSA/tree/master/0504-base-7) |
 | [0648-replace-words](https://github.com/VishalSingh-Web1/DSA/tree/master/0648-replace-words) |
+| [0821-shortest-distance-to-a-character](https://github.com/VishalSingh-Web1/DSA/tree/master/0821-shortest-distance-to-a-character) |
 | [1451-rearrange-words-in-a-sentence](https://github.com/VishalSingh-Web1/DSA/tree/master/1451-rearrange-words-in-a-sentence) |
 ## Math
 |  |
