@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/VishalSingh-Web1/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/VishalSingh-Web1/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/VishalSingh-Web1/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/VishalSingh-Web1/DSA/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 ## Greedy
 |  |
 | ------- |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0648-replace-words](https://github.com/VishalSingh-Web1/DSA/tree/master/0648-replace-words) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/VishalSingh-Web1/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/VishalSingh-Web1/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/VishalSingh-Web1/DSA/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 ## Sliding Window
 |  |
 | ------- |
@@ -158,4 +160,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0693-binary-number-with-alternating-bits](https://github.com/VishalSingh-Web1/DSA/tree/master/0693-binary-number-with-alternating-bits) |
+## Counting
+|  |
+| ------- |
+| [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/VishalSingh-Web1/DSA/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 <!---LeetCode Topics End-->
