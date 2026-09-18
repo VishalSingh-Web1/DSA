@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0821-shortest-distance-to-a-character](https://github.com/VishalSingh-Web1/DSA/tree/master/0821-shortest-distance-to-a-character) |
 | [0941-valid-mountain-array](https://github.com/VishalSingh-Web1/DSA/tree/master/0941-valid-mountain-array) |
 | [1207-unique-number-of-occurrences](https://github.com/VishalSingh-Web1/DSA/tree/master/1207-unique-number-of-occurrences) |
+| [1331-rank-transform-of-an-array](https://github.com/VishalSingh-Web1/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/VishalSingh-Web1/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/VishalSingh-Web1/DSA/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/VishalSingh-Web1/DSA/tree/master/1800-maximum-ascending-subarray-sum) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/VishalSingh-Web1/DSA/tree/master/0179-largest-number) |
+| [1331-rank-transform-of-an-array](https://github.com/VishalSingh-Web1/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1451-rearrange-words-in-a-sentence](https://github.com/VishalSingh-Web1/DSA/tree/master/1451-rearrange-words-in-a-sentence) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/VishalSingh-Web1/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/VishalSingh-Web1/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/VishalSingh-Web1/DSA/tree/master/0409-longest-palindrome) |
 | [0648-replace-words](https://github.com/VishalSingh-Web1/DSA/tree/master/0648-replace-words) |
 | [1207-unique-number-of-occurrences](https://github.com/VishalSingh-Web1/DSA/tree/master/1207-unique-number-of-occurrences) |
+| [1331-rank-transform-of-an-array](https://github.com/VishalSingh-Web1/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/VishalSingh-Web1/DSA/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/VishalSingh-Web1/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/VishalSingh-Web1/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
