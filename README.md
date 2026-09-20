@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0504-base-7](https://github.com/VishalSingh-Web1/DSA/tree/master/0504-base-7) |
 | [0648-replace-words](https://github.com/VishalSingh-Web1/DSA/tree/master/0648-replace-words) |
 | [0821-shortest-distance-to-a-character](https://github.com/VishalSingh-Web1/DSA/tree/master/0821-shortest-distance-to-a-character) |
+| [1446-consecutive-characters](https://github.com/VishalSingh-Web1/DSA/tree/master/1446-consecutive-characters) |
 | [1451-rearrange-words-in-a-sentence](https://github.com/VishalSingh-Web1/DSA/tree/master/1451-rearrange-words-in-a-sentence) |
 ## Math
 |  |
