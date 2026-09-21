@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/VishalSingh-Web1/DSA/tree/master/0179-largest-number) |
 | [0204-count-primes](https://github.com/VishalSingh-Web1/DSA/tree/master/0204-count-primes) |
 | [0219-contains-duplicate-ii](https://github.com/VishalSingh-Web1/DSA/tree/master/0219-contains-duplicate-ii) |
+| [0485-max-consecutive-ones](https://github.com/VishalSingh-Web1/DSA/tree/master/0485-max-consecutive-ones) |
 | [0624-maximum-distance-in-arrays](https://github.com/VishalSingh-Web1/DSA/tree/master/0624-maximum-distance-in-arrays) |
 | [0648-replace-words](https://github.com/VishalSingh-Web1/DSA/tree/master/0648-replace-words) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/VishalSingh-Web1/DSA/tree/master/0674-longest-continuous-increasing-subsequence) |
