@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/VishalSingh-Web1/DSA/tree/master/0005-longest-palindromic-substring) |
+| [0151-reverse-words-in-a-string](https://github.com/VishalSingh-Web1/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/VishalSingh-Web1/DSA/tree/master/0165-compare-version-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/VishalSingh-Web1/DSA/tree/master/0633-sum-of-square-numbers) |
 | [0821-shortest-distance-to-a-character](https://github.com/VishalSingh-Web1/DSA/tree/master/0821-shortest-distance-to-a-character) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/VishalSingh-Web1/DSA/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/VishalSingh-Web1/DSA/tree/master/0072-edit-distance) |
 | [0131-palindrome-partitioning](https://github.com/VishalSingh-Web1/DSA/tree/master/0131-palindrome-partitioning) |
+| [0151-reverse-words-in-a-string](https://github.com/VishalSingh-Web1/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/VishalSingh-Web1/DSA/tree/master/0165-compare-version-numbers) |
 | [0179-largest-number](https://github.com/VishalSingh-Web1/DSA/tree/master/0179-largest-number) |
 | [0306-additive-number](https://github.com/VishalSingh-Web1/DSA/tree/master/0306-additive-number) |
