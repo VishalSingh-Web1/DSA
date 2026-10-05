@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/VishalSingh-Web1/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/VishalSingh-Web1/DSA/tree/master/0229-majority-element-ii) |
 | [0485-max-consecutive-ones](https://github.com/VishalSingh-Web1/DSA/tree/master/0485-max-consecutive-ones) |
+| [0560-subarray-sum-equals-k](https://github.com/VishalSingh-Web1/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0624-maximum-distance-in-arrays](https://github.com/VishalSingh-Web1/DSA/tree/master/0624-maximum-distance-in-arrays) |
 | [0648-replace-words](https://github.com/VishalSingh-Web1/DSA/tree/master/0648-replace-words) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/VishalSingh-Web1/DSA/tree/master/0674-longest-continuous-increasing-subsequence) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/VishalSingh-Web1/DSA/tree/master/0229-majority-element-ii) |
 | [0264-ugly-number-ii](https://github.com/VishalSingh-Web1/DSA/tree/master/0264-ugly-number-ii) |
 | [0409-longest-palindrome](https://github.com/VishalSingh-Web1/DSA/tree/master/0409-longest-palindrome) |
+| [0560-subarray-sum-equals-k](https://github.com/VishalSingh-Web1/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0648-replace-words](https://github.com/VishalSingh-Web1/DSA/tree/master/0648-replace-words) |
 | [1207-unique-number-of-occurrences](https://github.com/VishalSingh-Web1/DSA/tree/master/1207-unique-number-of-occurrences) |
 | [1331-rank-transform-of-an-array](https://github.com/VishalSingh-Web1/DSA/tree/master/1331-rank-transform-of-an-array) |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/VishalSingh-Web1/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/VishalSingh-Web1/DSA/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1991-find-the-middle-index-in-array](https://github.com/VishalSingh-Web1/DSA/tree/master/1991-find-the-middle-index-in-array) |
 ## Dynamic Programming
