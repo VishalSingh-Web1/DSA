@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/VishalSingh-Web1/DSA/tree/master/0229-majority-element-ii) |
 | [0485-max-consecutive-ones](https://github.com/VishalSingh-Web1/DSA/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/VishalSingh-Web1/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0561-array-partition](https://github.com/VishalSingh-Web1/DSA/tree/master/0561-array-partition) |
 | [0624-maximum-distance-in-arrays](https://github.com/VishalSingh-Web1/DSA/tree/master/0624-maximum-distance-in-arrays) |
 | [0648-replace-words](https://github.com/VishalSingh-Web1/DSA/tree/master/0648-replace-words) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/VishalSingh-Web1/DSA/tree/master/0674-longest-continuous-increasing-subsequence) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/VishalSingh-Web1/DSA/tree/master/0179-largest-number) |
 | [0316-remove-duplicate-letters](https://github.com/VishalSingh-Web1/DSA/tree/master/0316-remove-duplicate-letters) |
 | [0409-longest-palindrome](https://github.com/VishalSingh-Web1/DSA/tree/master/0409-longest-palindrome) |
+| [0561-array-partition](https://github.com/VishalSingh-Web1/DSA/tree/master/0561-array-partition) |
 | [0624-maximum-distance-in-arrays](https://github.com/VishalSingh-Web1/DSA/tree/master/0624-maximum-distance-in-arrays) |
 ## Sorting
 |  |
@@ -45,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/VishalSingh-Web1/DSA/tree/master/0164-maximum-gap) |
 | [0179-largest-number](https://github.com/VishalSingh-Web1/DSA/tree/master/0179-largest-number) |
 | [0229-majority-element-ii](https://github.com/VishalSingh-Web1/DSA/tree/master/0229-majority-element-ii) |
+| [0561-array-partition](https://github.com/VishalSingh-Web1/DSA/tree/master/0561-array-partition) |
 | [1331-rank-transform-of-an-array](https://github.com/VishalSingh-Web1/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1451-rearrange-words-in-a-sentence](https://github.com/VishalSingh-Web1/DSA/tree/master/1451-rearrange-words-in-a-sentence) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/VishalSingh-Web1/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -238,4 +241,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/VishalSingh-Web1/DSA/tree/master/0164-maximum-gap) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/VishalSingh-Web1/DSA/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
