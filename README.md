@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/VishalSingh-Web1/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/VishalSingh-Web1/DSA/tree/master/0229-majority-element-ii) |
 | [0485-max-consecutive-ones](https://github.com/VishalSingh-Web1/DSA/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/VishalSingh-Web1/DSA/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/VishalSingh-Web1/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/VishalSingh-Web1/DSA/tree/master/0561-array-partition) |
 | [0624-maximum-distance-in-arrays](https://github.com/VishalSingh-Web1/DSA/tree/master/0624-maximum-distance-in-arrays) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/VishalSingh-Web1/DSA/tree/master/0229-majority-element-ii) |
 | [0264-ugly-number-ii](https://github.com/VishalSingh-Web1/DSA/tree/master/0264-ugly-number-ii) |
 | [0409-longest-palindrome](https://github.com/VishalSingh-Web1/DSA/tree/master/0409-longest-palindrome) |
+| [0496-next-greater-element-i](https://github.com/VishalSingh-Web1/DSA/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/VishalSingh-Web1/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0648-replace-words](https://github.com/VishalSingh-Web1/DSA/tree/master/0648-replace-words) |
 | [1207-unique-number-of-occurrences](https://github.com/VishalSingh-Web1/DSA/tree/master/1207-unique-number-of-occurrences) |
@@ -217,10 +219,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/VishalSingh-Web1/DSA/tree/master/0316-remove-duplicate-letters) |
+| [0496-next-greater-element-i](https://github.com/VishalSingh-Web1/DSA/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/VishalSingh-Web1/DSA/tree/master/0316-remove-duplicate-letters) |
+| [0496-next-greater-element-i](https://github.com/VishalSingh-Web1/DSA/tree/master/0496-next-greater-element-i) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
