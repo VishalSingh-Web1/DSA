@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/VishalSingh-Web1/DSA/tree/master/0039-combination-sum) |
 | [0049-group-anagrams](https://github.com/VishalSingh-Web1/DSA/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/VishalSingh-Web1/DSA/tree/master/0056-merge-intervals) |
 | [0118-pascals-triangle](https://github.com/VishalSingh-Web1/DSA/tree/master/0118-pascals-triangle) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/VishalSingh-Web1/DSA/tree/master/0039-combination-sum) |
 | [0131-palindrome-partitioning](https://github.com/VishalSingh-Web1/DSA/tree/master/0131-palindrome-partitioning) |
 | [0306-additive-number](https://github.com/VishalSingh-Web1/DSA/tree/master/0306-additive-number) |
 ## Trie
