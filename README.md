@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/VishalSingh-Web1/DSA/tree/master/0049-group-anagrams) |
+| [0160-intersection-of-two-linked-lists](https://github.com/VishalSingh-Web1/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0219-contains-duplicate-ii](https://github.com/VishalSingh-Web1/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/VishalSingh-Web1/DSA/tree/master/0229-majority-element-ii) |
 | [0264-ugly-number-ii](https://github.com/VishalSingh-Web1/DSA/tree/master/0264-ugly-number-ii) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/VishalSingh-Web1/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0125-valid-palindrome](https://github.com/VishalSingh-Web1/DSA/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/VishalSingh-Web1/DSA/tree/master/0151-reverse-words-in-a-string) |
+| [0160-intersection-of-two-linked-lists](https://github.com/VishalSingh-Web1/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0165-compare-version-numbers](https://github.com/VishalSingh-Web1/DSA/tree/master/0165-compare-version-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/VishalSingh-Web1/DSA/tree/master/0633-sum-of-square-numbers) |
 | [0821-shortest-distance-to-a-character](https://github.com/VishalSingh-Web1/DSA/tree/master/0821-shortest-distance-to-a-character) |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/VishalSingh-Web1/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/VishalSingh-Web1/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/VishalSingh-Web1/DSA/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/VishalSingh-Web1/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 ## Recursion
 |  |
 | ------- |
