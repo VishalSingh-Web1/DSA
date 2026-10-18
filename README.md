@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/VishalSingh-Web1/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/VishalSingh-Web1/DSA/tree/master/0229-majority-element-ii) |
 | [0264-ugly-number-ii](https://github.com/VishalSingh-Web1/DSA/tree/master/0264-ugly-number-ii) |
+| [0290-word-pattern](https://github.com/VishalSingh-Web1/DSA/tree/master/0290-word-pattern) |
 | [0409-longest-palindrome](https://github.com/VishalSingh-Web1/DSA/tree/master/0409-longest-palindrome) |
 | [0496-next-greater-element-i](https://github.com/VishalSingh-Web1/DSA/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/VishalSingh-Web1/DSA/tree/master/0525-contiguous-array) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/VishalSingh-Web1/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/VishalSingh-Web1/DSA/tree/master/0165-compare-version-numbers) |
 | [0179-largest-number](https://github.com/VishalSingh-Web1/DSA/tree/master/0179-largest-number) |
+| [0290-word-pattern](https://github.com/VishalSingh-Web1/DSA/tree/master/0290-word-pattern) |
 | [0306-additive-number](https://github.com/VishalSingh-Web1/DSA/tree/master/0306-additive-number) |
 | [0316-remove-duplicate-letters](https://github.com/VishalSingh-Web1/DSA/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/VishalSingh-Web1/DSA/tree/master/0402-remove-k-digits) |
